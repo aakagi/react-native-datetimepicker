@@ -1,10 +1,11 @@
 {
   "name": "@react-native-community/datetimepicker",
   "version": "2.1.0",
-  "description": "DateTimePicker component for React Native",
+  "description": "DateTimePicker component for React Native -- FORKED because it doesn't work on web",
   "main": "./src/index.js",
   "publishConfig": {
-    "access": "public"
+    "access": "public",
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "start": "react-native start",
