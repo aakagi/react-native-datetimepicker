@@ -1,5 +1,5 @@
 {
-  "name": "@react-native-community/datetimepicker",
+  "name": "@aakagi/datetimepicker",
   "version": "2.1.0",
   "description": "DateTimePicker component for React Native -- FORKED because it doesn't work on web",
   "main": "./src/index.js",
